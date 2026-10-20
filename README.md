@@ -1,4 +1,4 @@
-# 🥷 Code Ninja Pro | Python Maths Quiz
+# Code Ninja Pro | Python Maths Quiz
 
 **Make Times Tables Fun with Python!**
 
